@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "384881957884",
+    "project_id": "papyrus-82148",
+    "storage_bucket": "papyrus-82148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384881957884:android:b7e11156374e9559c53079",
+        "android_client_info": {
+          "package_name": "com.example.todoey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384881957884-03o2l4f7c90n7a04a9bmgq52mmio76ju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todoey",
+            "certificate_hash": "41699acf077f7798f8a7b5f96e071dcd57a3caa0"
+          }
+        },
+        {
+          "client_id": "384881957884-upbsd1mq2gefdc8mcji8i4ddrbt5g64m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3DQSstryfciR1LfFrUcSQ_k86riVCJbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384881957884-upbsd1mq2gefdc8mcji8i4ddrbt5g64m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
